@@ -1,0 +1,54 @@
+body{background-image:url("https://www.sliderrevolution.com/wp-content/uploads/2021/09/sliderrevolution-blog-image-1.gif");
+background-repeat: no-repeat;
+background-size:cover;
+background-attachment:fixed;
+   
+}
+           h1,a{
+               color:chartreuse;
+               
+               
+               
+           }
+           h3{
+               color:aqua;
+               font-size: medium;
+               
+           }
+           h2{
+               color:aqua;
+               font-size:x-large;
+               
+           }
+           a{
+               color:rgb(106, 0, 255);
+               font-size:larger;
+               
+           }
+           table,h2,h1{
+            color:rgb(255, 0, 0);
+           
+            font-color:blue;
+            
+
+           }
+           ol{
+            color:rgb(0, 255, 98);
+            font-size:x-large;
+
+           }
+           .a{
+            padding: 10px 40px 40px 200px;
+           }
+           div{
+            border:solid 1px black;
+            display:block;
+            width:auto;
+            height:auto;
+            padding:10 40 40 200;
+           }
+           png{
+            position:relative;
+            top:auto;
+            left:-50px;
+           }
